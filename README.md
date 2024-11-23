@@ -1,2 +1,1 @@
-# rlu
 # Signature-attendence
